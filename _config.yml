@@ -12,7 +12,7 @@ title                    : "Freitas Personal Website"
 title_separator          : "-"
 name                     : &name "Rodolfo Freitas"
 description              : &description "personal description"
-url                      : https://RodolfosmFreitas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+URL                      : "https://RodolfosmFreitas.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RodolfosmFreitas/RodolfosmFreitas.github.io"
 
@@ -25,9 +25,9 @@ author:
   name             : "Rodolfo Freitas"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "London, UK"
   employer         : "Queen Mary University of London"
-  uri              : # URL
+  URI              : "https://www.sems.qmul.ac.uk/staff/r.dasilvamachadodefreitas"
   email            : "rodolfo.dasilvamachadodefreitas@qmul.ac.uk" 
 
   # Academic websites
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "rodolfosmfreitas"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
