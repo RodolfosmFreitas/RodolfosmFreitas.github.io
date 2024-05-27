@@ -21,7 +21,7 @@ repository               : "RodolfosmFreitas/RodolfosmFreitas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://www.sems.qmul.ac.uk/staff/r.dasilvamachadodefreitas#"
   name             : "Rodolfo Freitas"
   pronouns         : # example: "she/her"  
   bio              : "Scientific Machine Learning "
