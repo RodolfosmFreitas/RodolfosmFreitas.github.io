@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Associate in Synthetic Fuel Utilisation by the QMUL in 2023. Before this appointment, he held the "IF@ULB" Postdoctoral Fellowship since 2021, co-funded by the Université libre de Bruxelles and the European Commission within the framework of MARIE SKLODOWSKA-CURIE actions (H2020). I received my PhD in Mechanical Engineering from the Federal University of Rio de Janeiro in 2020. My research interest is focused on Machine Learning with applications to fuel property and combustion emission predictions; Molecular dynamics simulation; Thermofluid Modelling/Simulation for Sustainable Energy Utilisation; and Development of Uncertainty Quantification (UQ) techniques for calibration and validation of simplified (reduced) chemical kinetics models; Modeling of turbulence-chemistry interactions for combustion models.
+I am a Postdoctoral Research Associate in Synthetic Fuel Utilisation by the QMUL in 2023. Before this appointment, I held the "IF@ULB" Postdoctoral Fellowship since 2021, co-funded by the Université libre de Bruxelles and the European Commission within the framework of MARIE SKLODOWSKA-CURIE actions (H2020). I received my PhD in Mechanical Engineering from the Federal University of Rio de Janeiro in 2020. My research interest is focused on Scientific Machine Learning with applications to fuel property and combustion emission predictions; Molecular dynamics simulation; Thermofluid Modelling/Simulation for Sustainable Energy Utilisation; and Development of Uncertainty Quantification (UQ) techniques for calibration and validation of simplified (reduced) chemical kinetics models; Modeling of turbulence-chemistry interactions for combustion models.
 
 Short Bio
 ======
