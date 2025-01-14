@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Freitas Personal Website"
+title                    : "Rodolfo Freitas"
 title_separator          : "-"
 name                     : &name "Rodolfo Freitas"
 description              : &description "personal description"
