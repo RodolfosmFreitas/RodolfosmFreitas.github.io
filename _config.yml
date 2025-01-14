@@ -237,15 +237,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _home
-  - scope:
-      path: ""
-      type: home
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _teaching
   - scope:
       path: ""
@@ -273,7 +264,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-   _talks
+  # _talks
   - scope:
       path: ""
       type: talks
@@ -281,8 +272,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
-
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
