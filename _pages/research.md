@@ -13,10 +13,10 @@ The physicochemical properties of liquid alternative fuels are important yet cha
 
 ![graph_abs](https://github.com/user-attachments/assets/93e76c4c-0de4-4e37-b24e-c12ddf338942)
 
+
+
 Fuel Design
 =====
 
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
 
