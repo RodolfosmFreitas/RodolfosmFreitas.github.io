@@ -12,6 +12,9 @@ author_profile: true
 De Novo fuel design
 =====
 
+![SAF_framework](https://github.com/user-attachments/assets/1cce7c05-c682-45eb-a22a-4297f765dbb5)
+
+
 
 Neural network potential-based molecular dynamics for alternative fuels
 =====
