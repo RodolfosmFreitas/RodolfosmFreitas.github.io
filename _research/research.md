@@ -1,5 +1,5 @@
 ---
-title: "De Novo Fuel Design"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Machine learning for physicochemical properties predictions"
+excerpt: "The physicochemical properties of liquid alternative fuels are important yet challenging to measure or predict, especially when dealing with complex surrogate fuels. Machine learning can be utilised to develop quantitative structure-property relationship models, where the fuel's chemical structure is represented by molecular descriptors, linking key features of the fuel composition to essential properties of fuel utilisation. In this work, feature selection is employed to identify the most relevant characteristics that describe the chemical structure of the fuel, and several machine learning algorithms are tested to construct interpretable models. The methodology's effectiveness is demonstrated through the development of accurate and interpretable predictive models for cetane numbers, focusing on understanding the connection between molecular structure and the ignition quality of fuels. To further details check the paper publish at Energy&AI:"
 collection: research
 ---
