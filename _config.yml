@@ -200,21 +200,21 @@ kramdown:
 
 # Collections
 collections:
-  #home:
-  #  output: true
-  # permalink: /:collection/:path/
-  #teaching:
-  #  output: true
-  #  permalink: /:collection/:path/
+  home:
+    output: true
+    permalink: /:collection/:path/
+  teaching:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  #portfolio:
-  #  output: true
-  #  permalink: /:collection/:path/
-  #talks:
-  #  output: true
-  #  permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -289,7 +289,7 @@ timezone: GB # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # Plugins
 plugins:
   - jekyll-paginate
-  #- jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
