@@ -7,6 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
+
+
+Fuel Design
+=====
+
+
+Neural network potential-based molecular dynamics for alternative fuels
+=====
+![image](https://github.com/user-attachments/assets/c8939532-3c47-4aa3-bb2b-c595346e6d72)
+
+
+Machine Intelligence leveraging turbulence-chemistry interactions
+=====
+- SPAR
+![image](https://github.com/user-attachments/assets/3e5891af-7632-4b7d-87e3-ea3ce63b9e44)
+
+- Lorenzo paper
+
 Machine learning for physicochemical properties predictions
 =====
 The physicochemical properties of liquid alternative fuels are important yet challenging to measure or predict, especially when dealing with complex surrogate fuels. Machine learning can be utilised to develop quantitative structure-property relationship models, where the fuel's chemical structure is represented by molecular descriptors, linking key features of the fuel composition to essential properties of fuel utilisation. In this work, feature selection is employed to identify the most relevant characteristics that describe the chemical structure of the fuel, and several machine learning algorithms are tested to construct interpretable models. The methodology's effectiveness is demonstrated through the development of accurate and interpretable predictive models for cetane numbers, focusing on understanding the connection between molecular structure and the ignition quality of fuels. For further details, check the paper published at Energy & AI: [Descriptors-based machine-learning prediction of cetane number using quantitative structure–property relationship](https://doi.org/10.1016/j.egyai.2024.100385)
@@ -14,9 +32,6 @@ The physicochemical properties of liquid alternative fuels are important yet cha
 ![graph_abs](https://github.com/user-attachments/assets/93e76c4c-0de4-4e37-b24e-c12ddf338942)
 
 
-
-Fuel Design
-=====
 
 
 
