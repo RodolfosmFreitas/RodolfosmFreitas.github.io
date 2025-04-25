@@ -21,6 +21,10 @@ De Novo fuel design
 
 Neural network potential-based molecular dynamics for alternative fuels
 =====
+
+<div align="justify"> Understanding the thermal decomposition mechanisms of small molecules such as ethylene (C₂H₄) and ammonia (NH₃) is essential for applications in combustion chemistry, astrochemistry, and industrial catalysis. In this study, we employ high-dimensional neural network potentials (NNPs) trained on ab initio data to investigate the atomic-scale dynamics and reaction pathways involved in the thermal decomposition of ethylene and ammonia. The NNPs facilitate large-scale molecular dynamics (MD) simulations with near-quantum mechanical accuracy at a fraction of the computational cost, enabling us to explore complex reaction landscapes and identify key intermediates and transition states. Our simulations reveal detailed decomposition pathways, including the formation of radicals such as H·, NH₂·, and CH₂=CH· under varying temperature conditions. Reaction rates and activation energies derived from trajectory analysis show excellent agreement with available experimental and high-level theoretical data. This work demonstrates the effectiveness of machine learning potentials in modelling high-temperature reaction dynamics and provides new insights into the decomposition mechanisms of fundamental chemical species. For further details, check our paper published at Energy & AI: <a href="https://doi.org/10.1016/j.egyai.2024.100454">Neural network potential-based molecular investigation of thermal decomposition mechanisms of ethylene and ammonia </a> </div>
+</div>
+
 ![image](https://github.com/user-attachments/assets/c8939532-3c47-4aa3-bb2b-c595346e6d72)
 
 
