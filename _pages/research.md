@@ -23,17 +23,19 @@ Neural network potential-based molecular dynamics for alternative fuels
 =====
 
 <div align="justify"> Understanding the thermal decomposition mechanisms of small molecules such as ethylene (C₂H₄) and ammonia (NH₃) is essential for applications in combustion chemistry, astrochemistry, and industrial catalysis. In this study, we employ high-dimensional neural network potentials (NNPs) trained on ab initio data to investigate the atomic-scale dynamics and reaction pathways involved in the thermal decomposition of ethylene and ammonia. The NNPs facilitate large-scale molecular dynamics (MD) simulations with near-quantum mechanical accuracy at a fraction of the computational cost, enabling us to explore complex reaction landscapes and identify key intermediates and transition states. Our simulations reveal detailed decomposition pathways, including the formation of radicals such as H·, NH₂·, and CH₂=CH· under varying temperature conditions. Reaction rates and activation energies derived from trajectory analysis show excellent agreement with available experimental and high-level theoretical data. This work demonstrates the effectiveness of machine learning potentials in modelling high-temperature reaction dynamics and provides new insights into the decomposition mechanisms of fundamental chemical species. For further details, check our paper published at Energy & AI: <a href="https://doi.org/10.1016/j.egyai.2024.100454">Neural network potential-based molecular investigation of thermal decomposition mechanisms of ethylene and ammonia </a> </div>
-</div>
+
 
 ![image](https://github.com/user-attachments/assets/c8939532-3c47-4aa3-bb2b-c595346e6d72)
 
 
 Machine Intelligence leveraging turbulence-chemistry interactions
 =====
-- SPAR
-<img align="center" src="https://github.com/user-attachments/assets/3e5891af-7632-4b7d-87e3-ea3ce63b9e44" width="500">
+<div align="justify">
+Accurate modelling of turbulent combustion remains a significant challenge due to the complex interplay between turbulence and chemical kinetics. Reactor-based closures, such as those employing perfectly stirred reactors (PSRs) or plug flow reactors (PFRs), provide a reduced-order framework to approximate the effects of unresolved turbulence-chemistry interactions in large-eddy simulations (LES). However, identifying appropriate functional forms for these closures remains largely empirical and limited in generalizability. Novel data-driven approaches for model discovery can be used to identify interpretable, compact, and physics-consistent closures for combustion source terms and scalar quantities. Leveraging high-fidelity simulation data from canonical reactor configurations, we employ symbolic regression to extract algebraic representations of combustion closures as functions of key control variables such as mixture fraction, scalar dissipation rate, and temperature. The resulting models achieve high accuracy with minimal complexity and retain physical interpretability, enabling seamless integration into existing CFD frameworks. These approaches open new avenues for automated, physics-informed model discovery in turbulent reacting flows, bridging the gap between first-principles modelling and data-driven techniques. For further details, check our papers published at Combustion & Flame: <a href="https://doi.org/10.1016/j.combustflame.2023.112925">Model identification in reactor-based combustion closures using sparse symbolic regression </a>;  and Flow, Turbulence and Combustion: <a href="https://doi.org/10.1007/s10494-024-00626-3"> A Data-Driven Approach to Refine the Partially Stirred Reactor Closure for Turbulent Premixed Flames </a>. 
+</div>
 
-- Lorenzo paper
+<img align="center" src="https://github.com/user-attachments/assets/da7540b4-2c63-4ba0-a3f7-a6924cb99a55" width="300"> <img align="center" src="https://github.com/user-attachments/assets/3e5891af-7632-4b7d-87e3-ea3ce63b9e44" width="500">
+
 
 Machine learning for physicochemical properties predictions
 =====
