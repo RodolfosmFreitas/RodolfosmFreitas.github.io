@@ -24,7 +24,7 @@ Neural network potential-based molecular dynamics for alternative fuels
 Machine Intelligence leveraging turbulence-chemistry interactions
 =====
 - SPAR
-![image](https://github.com/user-attachments/assets/3e5891af-7632-4b7d-87e3-ea3ce63b9e44)
+<img align="center" src="https://github.com/user-attachments/assets/3e5891af-7632-4b7d-87e3-ea3ce63b9e44" width="500">
 
 - Lorenzo paper
 
