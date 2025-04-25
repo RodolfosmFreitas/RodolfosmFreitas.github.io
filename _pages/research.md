@@ -12,7 +12,7 @@ author_profile: true
 De Novo fuel design
 =====
 
-<img align="right" src="https://github.com/user-attachments/assets/1cce7c05-c682-45eb-a22a-4297f765dbb5" width="500">
+<img align="center" src="https://github.com/user-attachments/assets/1cce7c05-c682-45eb-a22a-4297f765dbb5" width="500">
 
 
 
