@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ### Latest published articles
+- Z. Xing, R. S. Freitas, and X. Jiang, “Machine learning-driven multi-objective optimisation of
+ammonia co-firing with highly reactive fuels,” Energy Conversion and Management, vol. 341,
+p. 120 071, 2025, issn: 0196-8904. doi: https://doi.org/10.1016/j.enconman.2025.120071.
+
 - R. S. M. Freitas, Z. Xing, F. A. Rochinha, et al., “Pathways to sustainable fuel design from a
 probabilistic deep learning perspective,” Advances in Applied Energy, vol. 19, p. 100 226, 2025,
 issn: 2666-7924. doi: https://doi.org/10.1016/j.adapen.2025.100226.
@@ -19,7 +23,6 @@ issn: 2666-7924. doi: https://doi.org/10.1016/j.adapen.2025.100226.
   
 - Rodolfo S. M. Freitas, Xi Jiang; Descriptors-based machine-learning prediction of cetane number using quantitative structure–property relationship, Energy and AI, 17,100385, 2024
   
-- Rodolfo S. M. Freitas, Fernando A. Rochinha; An embedded deep learning model discrepancy for computational combustion simulations. J Braz. Soc. Mech. Sci. Eng. 46, 177, 2024
 
 
 {% if site.author.googlescholar %}
