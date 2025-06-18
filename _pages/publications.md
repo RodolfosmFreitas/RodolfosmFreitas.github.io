@@ -8,7 +8,7 @@ author_profile: true
 ### Latest published articles
 - R. S. M. Freitas, Z. Xing, F. A. Rochinha, et al., “Pathways to sustainable fuel design from a
 probabilistic deep learning perspective,” Advances in Applied Energy, vol. 19, p. 100 226, 2025,
-issn: 2666-7924.  doi: https://doi.org/10.1016/j.adapen.2025.100226.
+issn: 2666-7924. doi: https://doi.org/10.1016/j.adapen.2025.100226.
   
 - Rodolfo S. M. Freitas, Jacques Honigbaum, Soulemayne Zio, Gabriel M. Guerra, Fernando Rochinha; 
  Bayesian uncertainty estimation of adsorption closure models in the computational simulation of contaminant transport, Journal of Environmental Management,379, 124708, 2025
