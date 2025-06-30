@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-De Novo fuel design
+Fuel design
 =====
 
 <div align="justify"> Artificial intelligence, such as promising ML tools, has shown potential to revolutionise fuel design formulation by building accurate predictive models for key physicochemical properties of fuel utilisation while also helping to screen fuel mixtures in inverse design formulations. Integrated advanced AI tools can be used to leverage fuel screening, significantly dwindling development timelines and costs compared to the conventional fuel design approach. By leveraging large datasets, AI can accurately predict critical physicochemical properties of fuels, including viscosity, density, energy content, along with combustion characteristics and emissions. ML and big data analytics enable mapping fuel composition to key utilisation properties. Additionally, AI-assisted inverse fuel design frames fuel mixture development as a constrained optimisation problem, identifying compound combinations to achieve the desired properties. These advancements accelerate fuel formulation screening, significantly reducing development timelines and cost. For further details, check our paper published at Advances in Applied Energy: <a href="https://doi.org/10.1016/j.adapen.2025.100226">Pathways to sustainable fuel design from a probabilistic deep learning perspective </a> </div> 
